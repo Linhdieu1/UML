@@ -12,7 +12,7 @@ Communication diagram
 ![Screen Shot 2021-08-26 at 23 57 52](https://user-images.githubusercontent.com/89398402/131004544-e90c4931-6ed8-40c4-a394-2f709a36fbcf.png)
 
 Activity diagram
-![Screen Shot 2021-08-27 at 00 08 30](https://user-images.githubusercontent.com/89398402/131006159-027a7ce1-c70e-4ca4-aa18-b1c62114ea9b.png)
+![Screen Shot 2021-08-27 at 00 11 29](https://user-images.githubusercontent.com/89398402/131006303-e6c97a13-09c1-41a3-9665-110587f8422a.png)
 
 
 
