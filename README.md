@@ -5,4 +5,11 @@ Usercase diagram
 class diagram
 ![Screen Shot 2021-08-26 at 22 02 13](https://user-images.githubusercontent.com/89398402/130988384-a660030a-9af0-4922-8b3b-84ca6c3f69d8.png)
 
-Object diagram
+Profile diagram
+![Screen Shot 2021-08-26 at 23 16 42](https://user-images.githubusercontent.com/89398402/130998794-15ddf295-89e2-4f5e-b57a-341ddc190516.png)
+
+Communication diagram
+![Screen Shot 2021-08-26 at 23 57 52](https://user-images.githubusercontent.com/89398402/131004544-e90c4931-6ed8-40c4-a394-2f709a36fbcf.png)
+
+
+
